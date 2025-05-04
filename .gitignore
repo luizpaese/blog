@@ -28,3 +28,6 @@ assets/js/dist
 
 # rbenv
 .ruby-version
+
+# Ignore template
+_posts/template.md
