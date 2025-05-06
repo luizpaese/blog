@@ -20,4 +20,7 @@ Se quiser trocar uma ideia ou acompanhar meus projetos, me encontra por aqui:
 - [GitHub](https://github.com/luizpaese)
 - [LinkedIn](https://www.linkedin.com/in/luizpaese)
 
+Se gostar do que faço aqui:
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="luizpaese" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 Valeu por passar por aqui! 🚀
