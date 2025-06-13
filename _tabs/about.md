@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-title: Sobre
+title: About
 ---
 
 👋 Hello! I'm **Luiz Paese** — a DevOps and infrastructure professional, currently working at **Thomson Reuters**. I have about **3 and a half years of experience** in the field, and I've faced different challenges in the tech world, from infrastructure support to cloud automation.
