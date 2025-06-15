@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure as Code: First Steps on CloudFormation"
+title: "Infraestrutura como código: Primeiros passos com CloudFormation"
 date: 2025-06-14 17:04 -0300
 categories: [IaC, DevOps]
 tags: [CloudFormation]     # TAG names should always be lowercase
