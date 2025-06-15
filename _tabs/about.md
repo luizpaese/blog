@@ -2,20 +2,20 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-title: About
+title: Sobre
 ---
 
-👋 Hello! I'm **Luiz Paese** — a DevOps and infrastructure professional, currently working at **Thomson Reuters**. I have about **3 and a half years of experience** in the field, and I've faced different challenges in the tech world, from infrastructure support to cloud automation.
+👋 Olá! Eu sou **Luiz Paese** — profissional de DevOps e infraestrutura, atualmente atuando na **Thomson Reuters**. Tenho cerca de **3 anos e meio de experiência** na área, e já passei por diferentes desafios no mundo de tecnologia, desde o suporte à infraestrutura até automações em nuvem.
 
-Nowadays, I work a lot with **AWS**, **CloudFormation**, and **Python**, but I also have a great interest in **Docker**, **Kubernetes**, and **Terraform** — tools that make our work more scalable, versioned, and reliable.
+Hoje em dia, trabalho bastante com **AWS**, **CloudFormation** e **Python**, mas também tenho um grande interesse por **Docker**, **Kubernetes** e **Terraform** — ferramentas que tornam nosso trabalho mais escalável, versionado e confiável.
 
-I created this blog with the idea of **sharing experiences**, learnings, and maybe even some struggles that are part of the DevOps life. Here you will find **technical posts**, **code examples**, and practical content about infrastructure, automation, CI/CD, and other daily geek stuff.
+Criei este blog com a ideia de **compartilhar experiências**, aprendizados e talvez até alguns perrengues que fazem parte da vida DevOps. Aqui você vai encontrar **posts técnicos**, **códigos de exemplo** e conteúdos práticos sobre infraestrutura, automação, CI/CD e outras nerdices do dia a dia.
 
-I have a **bachelor's degree in Information Systems** and a **postgraduate degree in DevOps & Continuous Software Engineering**. I like to learn, try out new technologies, and look for better ways to deliver software.
+Sou **graduado em Sistemas de Informação** e tenho uma **pós-graduação em DevOps & Continuous Software Engineering**. Gosto de aprender, experimentar tecnologias novas e buscar formas melhores de entregar software.
 
-Away from the terminal, I enjoy playing **table tennis** and have started to venture into the world of **running**.
+Fora da frente do terminal, gosto de jogar **tênis de mesa** e comecei a me aventurar no mundo da **corrida**.
 
-If you want to chat or follow my projects, you can find me here:
+Se quiser trocar uma ideia ou acompanhar meus projetos, me encontra por aqui:
 
 - [GitHub](https://github.com/luizpaese)
 - [LinkedIn](https://www.linkedin.com/in/luizpaese)
